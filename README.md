@@ -1,5 +1,7 @@
 # arttichure
-![image (1)](https://github.com/ElaheSeyfi/protifilo/assets/155986797/ef7bca10-feec-4e74-a8d4-62dc53246233)
+
+![4](https://github.com/ElaheSeyfi/arttichure/assets/155986797/642a0140-9e80-4b5c-9a5f-c46314e08801)
+
 
 - [Demo Project](https://elaheseyfi.github.io/protifilo/)
 
