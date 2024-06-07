@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+@font-face {
+    font-family: poppins;
+    src: url("../font/Poppins.ttf") format("opentype");
+  }
+
