@@ -2,8 +2,7 @@
 
 ![4](https://github.com/ElaheSeyfi/arttichure/assets/155986797/642a0140-9e80-4b5c-9a5f-c46314e08801)
 
-
-- [Demo Project](https://elaheseyfi.github.io/protifilo/)
+- [Demo Project](https://elaheseyfi.github.io/arttichure/)
 
 - Developed by Elaheseyfi
 
